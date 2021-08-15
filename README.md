@@ -21,3 +21,11 @@ Where the goal is to get a program to render a spinning cube.
 - [ ] .
 - [ ] .
 - [ ] A spinning cube.
+
+<br>
+<details>
+<summary><h2 align="center">References</h2></summary>
+<br>
+[SDL2 "installation" guide using vcpkg](https://gamefromscratch.com/vcpkg-cpp-easy-mode-step-by-step-tutorial/)
+</details>
+
