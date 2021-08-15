@@ -26,10 +26,10 @@ Where the goal is to get a program to render a spinning cube.
 <details>
 <summary><h2 align="center">References</h2></summary>
 <br>
-<a href="https://gamefromscratch.com/vcpkg-cpp-easy-mode-step-by-step-tutorial/">
 <h4>
+<a href="https://gamefromscratch.com/vcpkg-cpp-easy-mode-step-by-step-tutorial/">
 SDL2 installation guide using vcpkg
-</h4>
 </a>
+</h4>
 </details>
 
