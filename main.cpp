@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
 
-    tRender("Hey");
+    tRender("Tobsi's C++ SOP");
 
     return 0;
 }

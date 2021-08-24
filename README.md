@@ -18,9 +18,13 @@ Where the goal is to get a program to render a spinning cube.
 ### Goal:
 - [x] Install and link SDL2.
 - [x] Get a window on screen.
-- [ ] .
+- [X] Draw some lines in the window.
 - [ ] .
 - [ ] A spinning cube.
+
+<div style="background-color: #541365; color: #ff4785">
+<h2>Karstens trello.</h2>
+</div>
 
 <br>
 <details>
